@@ -3,6 +3,7 @@
 화학 전공을 기반으로 데이터 분석과 소프트웨어 개발을 공부하고 있습니다.  
 AI와 데이터를 활용해 실제 문제를 해결하는 과정에 관심이 있습니다.
 
+
 ## 🔧 Tech Stack
 
 ### Languages
@@ -11,6 +12,7 @@ AI와 데이터를 활용해 실제 문제를 해결하는 과정에 관심이 �
 - SQL
 - JavaScript
 
+
 ### AI / Data
 - PyTorch
 - scikit-learn
@@ -18,16 +20,19 @@ AI와 데이터를 활용해 실제 문제를 해결하는 과정에 관심이 �
 - NumPy
 - Matplotlib
 
+
 ### Web / Backend
 - Django
 - React
 - HTML / CSS
+
 
 ### Tools
 - Git / GitLab / GitHub
 - Docker
 - VS Code
 - Jupyter Notebook
+
 
 ## 🚀 Projects
 
