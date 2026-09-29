@@ -39,7 +39,7 @@ AI와 데이터를 활용해 실제 문제를 해결하는 과정에 관심이 �
 - 클래스 불균형을 고려한 데이터 증강 및 전처리
 - 웨이퍼 분석 결과와 수율 정보를 제공하는 웹 서비스 개발
 
-### AJT
+### [AJT](https://github.com/JangYunwoo/SSAFY15_2_Common_PJT)
 **AI-based Internal Document Management Service**
 
 - 사내 문서를 기반으로 답변하는 RAG 시스템 개발
@@ -47,7 +47,7 @@ AI와 데이터를 활용해 실제 문제를 해결하는 과정에 관심이 �
 - AI 서버 구축 및 Backend API 연동
 - 문서 관리와 검색을 지원하는 사내 지식 플랫폼 개발
 
-### KMA Big Data Contest
+### [KMA Big Data Contest](https://github.com/JangYunwoo/weather_DA)
 **Wildfire Risk Analysis**
 
 - NASA · 기상청 · 산림청 데이터 활용
