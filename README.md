@@ -6,9 +6,6 @@ AI와 데이터를 활용해 실제 문제를 해결하는 과정에 관심이 �
 <br>
 
 ## 🔧 Tech Stack
-
-<br>
-
 ### Languages
 - Python
 - C
@@ -42,9 +39,6 @@ AI와 데이터를 활용해 실제 문제를 해결하는 과정에 관심이 �
 <br>
 
 ## 🚀 Projects
-
-<br>
-
 ### [WATOR](https://github.com/JangYunwoo/SSAFY15_1_Final_Chain_PJT)
 **Wafer Map Classification & Manufacturing Data Analysis**
 
